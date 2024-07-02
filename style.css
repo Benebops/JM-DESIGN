@@ -1,0 +1,15 @@
+.bg-color {
+  background-color: rgb(158, 179, 120);
+  height: 700px;
+}
+a {
+  text-decoration: none !important;
+}
+.contain-a {
+  width: 500px;
+  padding-left: 70px;
+}
+
+.sub-a {
+  width: 350px;
+}
